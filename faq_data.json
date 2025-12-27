@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are your operating hours?",
+        "answer": "We are open Monday to Friday, 9 AM to 5 PM EST."
+    },
+    {
+        "question": "How can I reset my password?",
+        "answer": "You can reset your password by clicking on the 'Forgot Password' link on the login page."
+    },
+    {
+        "question": "Do you offer refunds?",
+        "answer": "Yes, we offer a full refund within 30 days of purchase if you are not satisfied."
+    },
+    {
+        "question": "Where are you located?",
+        "answer": "Our headquarters is located in New York City, NY."
+    },
+    {
+        "question": "How do I contact support?",
+        "answer": "You can contact support via email at support@example.com or call us at 1-800-123-4567."
+    }
+]
